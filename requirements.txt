@@ -1,0 +1,7 @@
+mirdata
+crepe
+ipdb
+pyFluidSynth
+midi2audio
+encodec
+pyclean
