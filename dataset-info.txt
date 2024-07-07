@@ -1,0 +1,30 @@
+The youtube-solo-guitar dataset can be downloaded here as numpy file containing the raw audio pre-segmented into 1-second items:
+
+https://drive.google.com/file/d/1lhWd6KK9STEdyyWUYVsMNX25Q6Onb-Kz/view?usp=sharing
+
+
+The YouTube video titles from which the audio was retrieved are listed below:
+
+J.S. Bach Cantata BWV 4 Versus III. Frederic L'Epee, electric guitar
+Etude n1 practice
+The clean tone of a Fender Stratocaster and Vox AC30
+Acoustic Instrumental Worship Playlist 1  1 Hour Playlist  Fingerstyle Praise and Worship songs
+The Best of Tárrega
+Top 40 Guitar Covers Of Popular Songs 2020  Best Instrumental Music 2020
+Paganini Complete Guitar Music
+Acoustic Guitar Instrumental Rock Songs
+Best of XIXth Century Guitar Music  Paganini Regondi Giuliani Legnani Sor Mertz
+JS Bach Sonatas and Partitas for Classical Guitar Full Album
+The Best of Andrés Segovia  Guitar Masterpieces for Classical Music Lovers Full Album HQ
+Adele  Someone Like You Acoustic Guitar Karaoke Version
+Oasis   Wonderwall only guitar
+TOP 30 songs for CLASSICAL guitar you should know The Best Acoustic Guitar Music Solo Compilation
+Queen  Love Of My Life Acoustic Guitar Karaoke Version
+The Beatles  Classical guitar
+Fur Elise Beethoven Michael Lucarelli classical guitar
+Spanish Guitar Music Beautiful Relaxing Spanish Guitar Music Instrumental
+Best of Bach  Classical Guitar Compilation  BWV
+Relaxing Music From Sungha JungThe Best Of
+Instrumen Musik - Kumpulan Musik Melodi Gitar Akustik Seperti Di Cafe
+Guitar Instrumental Acoustic For Relax, Sleeping, Working and All
+THE BEST OF MY FINGERSTYLE GUITAR ARRANGEMENTS - Volume 1
